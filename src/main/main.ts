@@ -11,6 +11,7 @@ import MenuBuilder from './menu';
 import { resolveHtmlPath } from './util';
 import { OS } from '../modules/os';
 import { getRandomDiscordPhrase } from '../modules/utils';
+import clientData from '../modules/clientData';
 
 const STORE = new Store();
 
